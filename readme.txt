@@ -1,5 +1,10 @@
 1. Install erlang
 2. Install rabbitmq
+3. Start the rabbitmq service.
+4. Open browser and login to rabbitmq.
+url: http://localhost:15672/#/queues
+username: guest
+password: guest
 3. Install composer
 
 4. Add extension=php_sockets.dll into php.ini in your php installation directory such as c:\xampp\php. 
